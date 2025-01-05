@@ -34,7 +34,6 @@ java -jar out/artifacts/xogame_jar/xogame.jar
 ![image](https://github.com/user-attachments/assets/736011e9-5706-4d69-b795-37bccd470b39)
 ![image](https://github.com/user-attachments/assets/80eedfe0-1842-4b0d-9aeb-ca72f2f46b69)
 ![image](https://github.com/user-attachments/assets/76d61947-ffb4-4d65-95f5-98a03fb7236a)
-![image](https://github.com/user-attachments/assets/207d5ab4-3e84-42ca-932d-853325eeabec)
 
 
 
